@@ -28,7 +28,7 @@ global.premium = ['94719199757','254740830894'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
 global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
 global.caption = ' 👨‍💻 ＶＡＪＩＲＡ ＭＤ V3 👨‍💻';
-global.sessionName = 'session';
+global.sessionName = 'VAJIRA-MD=TMFkgaJR#zwpos_QGepRDvohNInUio5YjWEMNQqoIPryh2NWsZaM';
 global.prefa = ['!', '.'];
 global.sp = '✪';
 global.mess = {
